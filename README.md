@@ -1,47 +1,37 @@
-<h1 align="center">👋 Hi, I'm Shammi Amarasinghe</h1>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=HNDIT+Undergraduate;Software+Developer;Web+Developer;Database+Developer;UI%2FUX+Enthusiast;Software+Testing+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0077B6,100:001F3F&height=220&section=header&text=Shammi%20Amarasinghe&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shammi307&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=HNDIT+Undergraduate;Software+Developer;Web+Developer;Database+Developer;UI%2FUX+Enthusiast;Software+Testing+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shammi307">
-    <img src="https://img.shields.io/badge/GitHub-shammi307-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shammi-amarasinghe/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shammi%20Amarasinghe-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=shammi307&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👋 About Me
 
-I'm an **HNDIT undergraduate** with a strong interest in **software development, web development, database management, software testing, and UI/UX design**.
+Hi! I'm **Shammi Amarasinghe**, an **HNDIT Undergraduate** with a strong interest in software development, web development, databases, software testing, and UI/UX design.
 
-I enjoy building practical applications, exploring new technologies, solving problems through programming, and continuously improving my technical skills.
+I enjoy building practical software solutions and learning new technologies through academic and personal projects.
 
-* 🎓 **HNDIT Undergraduate**
-* 💻 Passionate about **Software & Web Development**
-* 🌐 Interested in modern and user-friendly web applications
-* 🗄️ Interested in **Database Design & Management**
-* 🧪 Interested in **Software Testing & Quality Assurance**
-* 🎨 Interested in **UI/UX Design & Prototyping**
-* 🌱 Continuously learning new technologies
-* 💼 Preparing for **Industrial Training**
-* 🇱🇰 Based in Sri Lanka
+🎓 **HNDIT Undergraduate**  
+💻 Interested in **Software & Web Development**  
+🗄️ Interested in **Database Development**  
+🧪 Interested in **Software Testing & Quality Assurance**  
+🎨 Interested in **UI/UX Design**  
+🚀 Currently preparing for **Industrial Training**
 
 ---
 
 # 🛠️ Technical Skills
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -50,7 +40,7 @@ I enjoy building practical applications, exploring new technologies, solving pro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,89 +49,42 @@ I enjoy building practical applications, exploring new technologies, solving pro
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-* Responsive Web Design
-* Frontend Development
-* Backend Development
-* Web Application Development
-* User-Friendly Interface Development
-
----
-
-## 🗄️ Database Management
+### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-* Database Design
-* SQL Queries
-* CRUD Operations
-* Database Connectivity
-* Data Management
-* Relational Database Concepts
-
----
-
-## 🧪 Software Testing & QA
+### 🧪 Software Testing
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manual%20Testing-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation%20Testing-0A66C2?style=for-the-badge"/>
 </p>
 
-* Manual Testing
-* Automated Testing
-* Test Case Design
-* Functional Testing
-* Regression Testing
-* Software Quality Assurance
-
----
-
-## 🔧 Development Tools
+### 🔧 Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
----
-
-## 🎨 UI/UX & Design
+### 🎨 UI/UX & Design
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireframing-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prototyping-FF4081?style=for-the-badge"/>
 </p>
-
-* UI Design
-* UX Design
-* Wireframing
-* Prototyping
-* User-Centered Design
-* Website Interface Design
-
----
-
-## 📚 IT & Software Development Knowledge
-
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* Database Management Systems (DBMS)
-* Software Development Life Cycle (SDLC)
-* System Analysis & Design
-* Software Quality Assurance
-* Agile Methodologies
-* Scrum
-* Kanban
-* Cyber Security Fundamentals
-* Cloud Computing Fundamentals
-* API Fundamentals
 
 ---
 
@@ -149,186 +92,107 @@ I enjoy building practical applications, exploring new technologies, solving pro
 
 ## 👗 ET Fashion House – Online Clothing Ordering System
 
-An online clothing ordering system designed to provide customers with a convenient platform to browse clothing collections, manage their shopping cart, place orders, and manage purchases online.
+**Technologies:** PHP | MySQL | HTML5 | CSS3 | JavaScript
 
-### 🛠️ Technologies
+An online clothing ordering system designed to provide customers with a simple and convenient way to browse clothing products and place orders.
 
-`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+### Features
 
-### ✨ Features
-
-* 🛍️ Browse clothing collections
-* 🔎 Product search and viewing
-* 🛒 Shopping cart
-* 👤 Customer registration and login
-* 📦 Order management
-* 💳 Checkout and payment management
-* 🧾 Invoice generation
-* 📊 Admin dashboard
-* 📈 Reports
-* 📋 Product and category management
+- 🛍️ Product browsing
+- 🔎 Product search
+- 🛒 Shopping cart
+- 👤 Customer registration & login
+- 📦 Order management
+- 💳 Checkout & payment management
+- 🧾 Invoice generation
+- 📊 Admin dashboard
+- 📋 Product & category management
+- 📈 Reports
 
 ---
 
 ## 🎓 Student Attendance Management System
 
-A desktop-based application developed to manage student information and attendance records efficiently.
+**Technologies:** C# | Microsoft Access
 
-### 🛠️ Technologies
+A desktop-based student attendance management system developed to manage student information and attendance records efficiently.
 
-`C#` `Microsoft Access`
+### Features
 
-### ✨ Features
-
-* 👨‍🎓 Student management
-* 📅 Attendance recording
-* 🔎 Student and attendance searching
-* 📊 Attendance reports
-* 🗄️ Database management
-* 📝 Record management
+- 👨‍🎓 Student management
+- 📅 Attendance management
+- 🔎 Search functionality
+- 📊 Attendance reports
+- 🗄️ Database connectivity
+- 🖥️ User-friendly interface
 
 ---
 
 ## 🧁 Bakery Management System
 
-A group project developed to computerize bakery operations and improve the management of products, customers, orders, and records.
+**Technologies:** C# | Microsoft Access
 
-### 🛠️ Technologies
+A desktop-based management system designed to manage bakery products, customers, orders, and related records.
 
-`C#` `Microsoft Access`
+### Features
 
-### ✨ Features
-
-* 🍰 Product management
-* 📦 Order management
-* 👥 Customer management
-* 🗄️ Database management
-* 📊 Report generation
-* 🧾 Record management
+- 🧁 Product management
+- 👥 Customer management
+- 🛒 Order management
+- 🗄️ Database management
+- 🔎 Search functionality
+- 📊 Reports
 
 ---
 
 ## 🧪 StockGuard Web Application – Automated Testing Project
 
-A web application testing project focused on automated software testing using Selenium and TestNG.
+**Technologies:** Selenium | Java | TestNG | Maven | Git | GitHub | IntelliJ IDEA
 
-### 🛠️ Technologies
+An automated software testing project focused on testing the functionality and reliability of a web application.
 
-`Selenium` `Java` `TestNG` `Maven` `Git` `GitHub` `IntelliJ IDEA`
+### Testing Activities
 
-### ✨ Testing Areas
-
-* Automated UI Testing
-* Functional Testing
-* Test Case Execution
-* Regression Testing
-* Web Element Interaction
-* Test Reporting
+- 🖥️ UI testing
+- 🧪 Functional testing
+- 🔄 Regression testing
+- 🖱️ Web element interaction
+- 📝 Test case implementation
+- ⚙️ Automated test execution
+- 📊 Test reporting
 
 ---
 
-# 📌 Academic Projects & Areas
+# 📚 Academic Knowledge
 
-| Project / Area               | Technologies                      |
-| ---------------------------- | --------------------------------- |
-| 👗 ET Fashion House          | PHP, MySQL, HTML, CSS, JavaScript |
-| 🎓 Student Attendance System | C#, MS Access                     |
-| 🧁 Bakery Management System  | C#, MS Access                     |
-| 🧪 Automated Testing Project | Selenium, Java, TestNG, Maven     |
-| 🎨 UI/UX Prototypes          | Figma, Canva                      |
-| 🗄️ Database Projects        | MySQL, MS Access                  |
+I have developed knowledge and practical experience in:
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Management Systems
+- SQL & CRUD Operations
+- System Analysis & Design
+- Software Development Life Cycle
+- Agile Methodologies
+- Scrum & Kanban
+- Software Quality Assurance
+- Software Testing
+- Cybersecurity Fundamentals
+- Cloud Computing Fundamentals
+- API Fundamentals
+- UI/UX Design
+- Web Application Development
 
 ---
 
 # 🌱 Currently Learning
 
-* 🚀 Advanced PHP & MySQL
-* 🌐 Modern Web Development
-* 🎨 Advanced UI/UX Design
-* 🧪 Software Testing & Automation
-* ☁️ Cloud Technologies
-* 🔐 Cyber Security
-* 🤖 AI-Assisted Development
-* 📱 Modern Application Development
-
----
-
-# 🎯 Goals
-
-* 🎓 Successfully complete my HNDIT
-* 💼 Gain practical industry experience
-* 🚀 Build more real-world software projects
-* 🌐 Develop professional web applications
-* 🧪 Improve software testing skills
-* 📚 Continuously learn modern technologies
-* 🤝 Contribute to open-source projects
-* 💻 Build a strong professional developer portfolio
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shammi307&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammi307&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shammi307&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shammi307&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# 💡 What I Enjoy
-
 ```text
-💻 Coding
-🌐 Web Development
-🗄️ Database Development
-🎨 UI/UX Design
-🧪 Software Testing
-📚 Learning New Technologies
-🚀 Building Real-World Projects
-🤝 Team Collaboration
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/shammi307">
-    <img src="https://img.shields.io/badge/GitHub-shammi307-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shammi-amarasinghe/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shammi%20Amarasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 💭 Developer Quote
-
-> “Great things are built one line of code at a time.”
-
----
-
-<p align="center">
-  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
-</p>
-
-<p align="center">
-  Feel free to explore my repositories and projects.
-</p>
+🔹 Advanced PHP & MySQL
+🔹 Modern Web Development
+🔹 Software Testing & Automation
+🔹 Selenium & TestNG
+🔹 UI/UX Design
+🔹 Git & GitHub
+🔹 Database Development
+🔹 Professional Software Development Practices
