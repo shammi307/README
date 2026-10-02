@@ -1,24 +1,35 @@
-# 👋 Hi, I'm Shammi Amarasinghe
+<h1 align="center">👋 Hi, I'm Shammi Amarasinghe</h1>
 
-### 💻 HNDIT Undergraduate | Software Developer | Web Developer
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=HNDIT+Undergraduate;Software+Developer;Web+Developer;Database+Developer;UI%2FUX+Enthusiast;Software+Testing+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shammi307&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-Welcome to my GitHub profile! 👋
-
-I'm an **HNDIT undergraduate** with a strong interest in **software development, web development, database management, software testing, and UI/UX design**.
-
-I enjoy building practical applications, exploring new technologies, solving problems through programming, and continuously improving my technical skills.
+<p align="center">
+  <a href="https://github.com/shammi307">
+    <img src="https://img.shields.io/badge/GitHub-shammi307-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shammi-amarasinghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shammi%20Amarasinghe-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
+I'm an **HNDIT undergraduate** with a strong interest in **software development, web development, database management, software testing, and UI/UX design**.
+
+I enjoy building practical applications, exploring new technologies, solving problems through programming, and continuously improving my technical skills.
+
 * 🎓 **HNDIT Undergraduate**
 * 💻 Passionate about **Software & Web Development**
-* 🌐 Interested in building modern and user-friendly web applications
+* 🌐 Interested in modern and user-friendly web applications
 * 🗄️ Interested in **Database Design & Management**
 * 🧪 Interested in **Software Testing & Quality Assurance**
 * 🎨 Interested in **UI/UX Design & Prototyping**
@@ -33,19 +44,19 @@ I enjoy building practical applications, exploring new technologies, solving pro
 ## 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ## 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 * Responsive Web Design
@@ -59,8 +70,8 @@ I enjoy building practical applications, exploring new technologies, solving pro
 ## 🗄️ Database Management
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
 </p>
 
 * Database Design
@@ -75,8 +86,8 @@ I enjoy building practical applications, exploring new technologies, solving pro
 ## 🧪 Software Testing & QA
 
 <p>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
 </p>
 
 * Manual Testing
@@ -91,12 +102,12 @@ I enjoy building practical applications, exploring new technologies, solving pro
 ## 🔧 Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
 ---
@@ -104,8 +115,8 @@ I enjoy building practical applications, exploring new technologies, solving pro
 ## 🎨 UI/UX & Design
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 * UI Design
@@ -297,16 +308,13 @@ A web application testing project focused on automated software testing using Se
 
 # 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/shammi307">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shammi-amarasinghe/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/shammi307">
+    <img src="https://img.shields.io/badge/GitHub-shammi307-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shammi-amarasinghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shammi%20Amarasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -318,7 +326,7 @@ A web application testing project focused on automated software testing using Se
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my GitHub profile! ⭐</b>
+  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
 </p>
 
 <p align="center">
